@@ -71,7 +71,7 @@ class HomeScreen extends StatelessWidget {
         body: ListView(
           children: <Widget>[
             Image.asset(
-              'image/img_1.png',
+              "image/image_1.png.jpg",
               fit: BoxFit.cover,
             ),
             titleSection,
